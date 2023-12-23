@@ -27,6 +27,8 @@ Bu uygulama, OpenCV kütüphanesi ve YOLOv4-tiny modeli kullanılarak geliştiri
 <br>
 2. Uygulama, bilgisayarınıza bağlı bir kamera üzerinden nesne tanıma işlemini gerçekleştirecektir.
 <br>
+<br>
+3. Uygulamayı sonlandırmak için ESC tuşuna basmanız gereklidir.
 
 
 [python]: art/Yolo-v4-Tiny.jpg
