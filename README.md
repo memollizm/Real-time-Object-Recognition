@@ -1,4 +1,4 @@
-# <p align="center">Gerçek Zamanlı Nesne Tanıma</p>
+# <p align="center">Gerçek Zamanlı Nesne Tespiti</p>
 <div align="center">
 
 ![python][python]
